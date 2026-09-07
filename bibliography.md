@@ -470,3 +470,14 @@ Taylor, S. and Márkus, G. (2006–2012) <i>The Place-Names of Fife</i>. Vols. 1
 
 
 
+<h2>Abbreviations</h2>
+
+<p>ALI = <i>Acts of the Lords of the Isles, 1336–1493</i></p>
+
+<p>ER = <i>The Exchequer Rolls of Scotland</i></p>
+
+<p>RMS = <i>Registrum Magni Sigilli Regum Scottorum</i></p>
+
+<p>Brechin Reg. = <i>Registrum Episcopatus Brechensis</i></p>
+
+<p>Moray Reg. = <i>Registrum Episcopatus Moraviensis</i></p>
