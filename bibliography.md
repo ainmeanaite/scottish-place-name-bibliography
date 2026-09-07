@@ -42,6 +42,10 @@ Black, G.F. (1998) <i>The Surnames of Scotland: Their Origin, Meaning and Histor
 
 Borgstrøm, C.H. (1940) <i>A Linguistic Survey of the Gaelic Dialects of Scotland</i>. \[place of publication unknown]: \[publisher unknown]. \[link unavailable]
 
+<a id="clancy2011-gaelicmedievalscotland"></a>
+
+
+Clancy, T.O. (2011) 'Gaelic in Medieval Scotland: Advent and Expansion', <i>Proceedings of the British Academy</i>, 167, pp. 349–392. [Sir John Rhŷs Memorial Lecture, March 2009]. [link unavailable]
 
 
 <a id="cox1991-brighnamfacal"></a>
@@ -106,37 +110,37 @@ Grannd, S. (2013) <i>Gàidhlig Dhùthaich MhicAoidh</i>. Mhealanais: Taigh na G�
 
 <a id="ghenderson1910-norseinfluence"></a>
 
-Henderson, G. (1910) \*The Norse Influence on Celtic Scotland\*. Glasgow: James MacLehose and Sons.
+Henderson, G. (1910) <i>The Norse Influence on Celtic Scotland</i>. Glasgow: James MacLehose and Sons.
 
 
 
 <a id="henderson1916-ardnamurchan"></a>
 
-Henderson, A. (1916) 'Place-names of Ardnamurchan', \*Transactions of the Gaelic Society of Inverness\*, 27.
+Henderson, A. (1916) 'Place-names of Ardnamurchan', <i>Transactions of the Gaelic Society of Inverness</i>, 27.
 
 
 
 <a id="irving1928-dumbartonshire"></a>
 
-Irving, J. (1928) \*Place Names of Dumbartonshire\*. \[Place of publication unknown]: John Menzies \& Co.
+Irving, J. (1928) <i>Place Names of Dumbartonshire</i>. \[Place of publication unknown]: John Menzies \& Co.
 
 
 
 <a id="johnston1903-scotland"></a>
 
-Johnston, J.B. (1903) \*Place-Names of Scotland\*. \[Place of publication unknown]: David Douglas.
+Johnston, J.B. (1903) <i>Place-Names of Scotland</i>. \[Place of publication unknown]: David Douglas.
 
 
 
 <a id="johnston1904-stirlingshire"></a>
 
-Johnston, J.B. (1904) \*The Place Names of Stirlingshire\*. Stirling: R.S. Shearer \& Son
+Johnston, J.B. (1904) <i>The Place Names of Stirlingshire</i>. Stirling: R.S. Shearer \& Son
 
 
 
 <a id="joyce1973-irishnames2"></a>
 
-Joyce, P.W. (1973) \*The Origin and History of Irish Names of Places. Volume 2\*. London.
+Joyce, P.W. (1973) <i>The Origin and History of Irish Names of Places. Volume 2</i>. London.
 
 
 
@@ -525,5 +529,3 @@ Wilkinson, J. (2002) 'Deep Thoughts on the Devon and a Fresh Look at the Nith', 
 <a id="withers1984-gaelicinscotland"></a>
 
 Withers, C.W.J. (1984) <i>Gaelic in Scotland 1698-1981</i>. Edinburgh: John Donald.
-
-
