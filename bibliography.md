@@ -16,7 +16,7 @@
 
 <a id="alexander1952-aberdeenshire"></a>
 
-Alexander, W.M. (1952) <i>The Place-Names of Aberdeenshire</i>. Aberdeen: \[publisher unknown]. \[link unavailable]
+Alexander, W.M. (1952) <i>The Place-Names of Aberdeenshire</i>. Aberdeen: \[publisher unknown]. 
 
 
 
