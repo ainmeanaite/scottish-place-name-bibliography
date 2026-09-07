@@ -28,7 +28,7 @@ Barrow, G.W.S. (1998) 'The Uses of Place-names and Scottish History: Pointers an
 
 <a id="beveridge1923-abersinvers"></a>
 
-Beveridge, E. (1923) <i>The ‘Abers’ and ‘Invers’ of Scotland</i>. Edinburgh: William Brown. \link unavailable]
+Beveridge, E. (1923) <i>The ‘Abers’ and ‘Invers’ of Scotland</i>. Edinburgh: William Brown. 
 
 
 
@@ -148,109 +148,109 @@ King, J. (2019) <i>Scottish Gaelic Place-names: The Collected Works of Charles M
 
 <a id="livingstone1908-rssrs"></a>
 
-Livingstone, M. (ed.) (1908) \*Registrum Secreti Sigilli Regum Scottorum\*. Edinburgh: : Scottish Record Society.
+Livingstone, M. (ed.) (1908) <i>Registrum Secreti Sigilli Regum Scottorum</i>. Edinburgh: : Scottish Record Society.
 
 
 
 <a id="macairt1983-annalsofulster"></a>
 
-MacAirt, S. (ed.) (1983) \*The Annals of Ulster\*. Dublin: Institute for Advanced Studies.
+MacAirt, S. (ed.) (1983) <i>The Annals of Ulster</i>. Dublin: Institute for Advanced Studies.
 
 
 
 <a id="macaulay1972-bernera"></a>
 
-MacAulay, D. (1972) 'Studying the Place Names of Bernera', \*Transactions of the Gaelic Society of Inverness\*, 47, pp. 313–337.
+MacAulay, D. (1972) 'Studying the Place Names of Bernera', <i>Transactions of the Gaelic Society of Inverness</i>, 47, pp. 313–337.
 
 
 
 <a id="macbain1911-etymologicaldictionary"></a>
 
-MacBain, A. (1911) \*An Etymological Dictionary of the Gaelic Language\*. \[Place of publication unknown]: E. Mackay.
+MacBain, A. (1911) <i>An Etymological Dictionary of the Gaelic Language</i>. \[Place of publication unknown]: E. Mackay.
 
 
 
 <a id="macculloch1939-romanticlochaber"></a>
 
-MacCulloch, D.B. (1939) \*Romantic Lochaber\*. Edinburgh and London: The Moray Press.
+MacCulloch, D.B. (1939) <i>Romantic Lochaber</i>. Edinburgh and London: The Moray Press.
 
 
 
 <a id="macdiarmaid1922-perthshire"></a>
 
-MacDiarmaid, J. (1922) 'Sgeulachdan bho Shiorramachd Pheairt', \*Transactions of the Gaelic Society of Inverness\*, 29, pp. 19–30.
+MacDiarmaid, J. (1922) 'Sgeulachdan bho Shiorramachd Pheairt', <i>Transactions of the Gaelic Society of Inverness</i>, 29, pp. 19–30.
 
 
 
 <a id="jmacdonald1899-westaberdeenshire"></a>
 
-MacDonald, J. (1899) \*Place Names of West Aberdeenshire\*. Aberdeen. \[Missing publisher]
+MacDonald, J. (1899) <i>Place Names of West Aberdeenshire</i>. Aberdeen. \[Missing publisher]
 
 
 
 <a id="amacdonald1912-kiltarlity"></a>
 
-Macdonald, A. (1912) 'Place-Names of Kiltarlity and District', \*Transactions of the Gaelic Society of Inverness\*, 28, pp. 441–451.
+Macdonald, A. (1912) 'Place-Names of Kiltarlity and District', <i>Transactions of the Gaelic Society of Inverness</i>, 28, pp. 441–451.
 
 
 
 <a id="amacdonald1941-westlothian"></a>
 
-MacDonald, A. (1941) \*The Place-Names of West Lothian\*. Edinburgh and London.\[Missing publisher]
+MacDonald, A. (1941) <i>The Place-Names of West Lothian</i>. Edinburgh and London.\Oliver \& Boyd
 
 
 
 <a id="cmacdonald1996-moidart"></a>
 
-Macdonald, C. and MacDonald, C. (1996) \*Moidart: Among the Clanranalds\*. 2nd rev. edn. \[Place of publication unknown]: Birlinn Ltd.
+Macdonald, C. and MacDonald, C. (1996) <i>Moidart: Among the Clanranalds</i>. 2nd rev. edn. \[Place of publication unknown]: Birlinn Ltd.
 
 
 
 <a id="macfarlane1906-geographicalcollections"></a>
 
-MacFarlane, W. (1906) \*Geographical Collections Relating to Scotland Made by Walter MacFarlane\*. \[Missing place of publication] \[Missing publisher]
+MacFarlane, W. (1906) <i>Geographical Collections Relating to Scotland Made by Walter MacFarlane</i>. \[Missing place of publication] \[Missing publisher]
 
 
 
 <a id="mackay1893-urquhartglenmoriston"></a>
 
-Mackay, W. (1893) \*Urquhart and Glenmoriston: Olden Times in a Highland Parish\*. Inverness: Northern Counties Newspaper and Printing and Publishing Co. <a href="https://archive.org/details/urquhartglenmori00mack" target="\_blank" rel="noopener noreferrer">link</a> 
+Mackay, W. (1893) <i>Urquhart and Glenmoriston: Olden Times in a Highland Parish</i>. Inverness: Northern Counties Newspaper and Printing and Publishing Co. <a href="https://archive.org/details/urquhartglenmori00mack" target="\_blank" rel="noopener noreferrer">link</a> 
 
 
 
 <a id="wcmackenzie1931-scottishplacenames"></a>
 
-Mackenzie, W.C. (1931) \*Scottish Place-Names\*. London: Kegan Paul, Trench, Trubner \& C
+Mackenzie, W.C. (1931) <i>Scottish Place-Names</i>. London: Kegan Paul, Trench, Trubner \& C
 
 
 
 <a id="mackenzie2002-oldskyetales"></a>
 
-Mackenzie, W. (2002) \*Old Skye Tales: Traditions, Reflections and Memories: With a Selection from Skye: Iochdar-Trotternish and District\*. \[Place of publication unknown]: Birlinn Ltd.
+Mackenzie, W. (2002) <i>Old Skye Tales: Traditions, Reflections and Memories: With a Selection from Skye: Iochdar-Trotternish and District</i>. \[Place of publication unknown]: Birlinn Ltd.
 
 
 
 <a id="mackinnon1973-lochaber"></a>
 
-MacKinnon, L. (1973) \*Place Names of Lochaber\*. Fort William: Saltire Society, Lochaber Branch.
+MacKinnon, L. (1973) <i>Place Names of Lochaber</i>. Fort William: Saltire Society, Lochaber Branch.
 
 
 
 <a id="maclean1998-mull"></a>
 
-Maclean, C. (1998) \*Isle of Mull: Placenames, Meanings and Stories\*. Dumfries: Maclean Publications
+Maclean, C. (1998) <i>Isle of Mull: Placenames, Meanings and Stories</i>. Dumfries: Maclean Publications
 
 
 
 <a id="rmaclean2004-inverness"></a>
 
-MacLean, R. (2004) \*The Gaelic Place Names and Heritage of Inverness\*. Inverness: Culcabock Publishing.
+MacLean, R. (2004) <i>The Gaelic Place Names and Heritage of Inverness</i>. Inverness: Culcabock Publishing.
 
 
 
 <a id="maclennan1979-gaelicdictionary"></a>
 
-Maclennan, M. (1979) \*Gaelic Dictionary\*. Aberdeen.
+Maclennan, M. (1979) <i>Gaelic Dictionary</i>. Aberdeen.
 
 \[Missing publisher]
 
@@ -258,13 +258,13 @@ Maclennan, M. (1979) \*Gaelic Dictionary\*. Aberdeen.
 
 <a id="macmillan1971-bygonelochaber"></a>
 
-MacMillan, S. (1971) \*Bygone Lochaber: Historical and Traditional\*. \[Place of publication unknown]: K. \& R. Davidson.
+MacMillan, S. (1971) <i>Bygone Lochaber: Historical and Traditional</i>. \[Place of publication unknown]: K. \& R. Davidson.
 
 
 
 <a id="maolalaigh1998-historicallinguist"></a>
 
-Maolalaigh, Ó. (1998) 'Place-Names as a Resource for the Historical Linguist', in \*The Uses of Place-Names\*, pp. 12–53. 
+Maolalaigh, Ó. (1998) 'Place-Names as a Resource for the Historical Linguist', in <i>The Uses of Place-Names</i>, pp. 12–53. 
 
 \[Missing editor(s)] \[Missing place of publication] \[Missing publisher]
 
@@ -464,37 +464,37 @@ Watson, W.J. (1900–1948) <i>Topographic Material in the Carmichael Watson Coll
 
 <a id="wjwatson1904-rosscromarty"></a>
 
-Watson, W.J. (1904) \*Place-Names of Ross and Cromarty\*. \[Place of publication unknown]: The Northern Counties Printing and Publishing Company, Limited.
+Watson, W.J. (1904) <i>Place-Names of Ross and Cromarty</i>. Inverness: The Northern Counties Printing and Publishing Company, Limited.
 
 
 
 <a id="wjwatson1911-topographicalvaria4"></a>
 
-Watson, W.J. (1911) 'Topographical Varia: IV', \*The Celtic Review\*, 7(25), pp. 68-81.
+Watson, W.J. (1911) 'Topographical Varia: IV', <i>The Celtic Review</i>, 7(25), pp. 68-81.
 
 
 
 <a id="wjwatson1926-celticplacenames"></a>
 
-Watson, W.J. (1926) \*The History of the Celtic Place-Names of Scotland\*. Edinburgh: Birlinn. \[Supplied note: reprinted 2004]
+Watson, W.J. (1926) <i>The History of the Celtic Place-Names of Scotland</i>. Edinburgh: Birlinn. \[Supplied note: reprinted 2004]
 
 
 
 <a id="watson-allan1984-upperdeeside"></a>
 
-Watson, A. and Allan, E. (1984) \*The Place Names of Upper Deeside\*. Aberdeen: Aberdeen University Press.
+Watson, A. and Allan, E. (1984) <i>The Place Names of Upper Deeside</i>. Aberdeen: Aberdeen University Press.
 
 
 
 <a id="awatson1995-ochils"></a>
 
-Watson, A. (1995) \*The Ochils: Placenames History Tradition\*. Perth. \[Missing publisher]
+Watson, A. (1995) <i>The Ochils: Placenames History Tradition</i>. Perth. \[Missing publisher]
 
 
 
 <a id="wjwatson2002-scottishplacenamepapers"></a>
 
-Watson, W.J. (2002) \*Scottish Place-Name Papers\*. Edinburgh: Steve Savage.
+Watson, W.J. (2002) <i>Scottish Place-Name Papers</i>. Edinburgh: Steve Savage.
 
 
 
