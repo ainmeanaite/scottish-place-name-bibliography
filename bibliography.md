@@ -379,3 +379,33 @@ Wilkinson, J. (2002) 'Deep Thoughts on the Devon and a Fresh Look at the Nith', 
 
 Withers, C.W.J. (1984) <i>Gaelic in Scotland 1698-1981</i>. Edinburgh: John Donald.
 
+<a id="cox1991-brighnamfacal"></a>
+
+Cox, R.A.V. (1991) <i>Brìgh nam Facal</i>. Glasgow: Gairm Publications. [link unavailable]
+
+<a id="cox1997-pettlannerc"></a>
+
+Cox, R.A.V. (1997) 'Modern Scottish Gaelic Reflexes of Two Pictish Words: *pett and *lannerc', <i>Nomina</i>, 20, pp. 47–58. [link unavailable]
+
+<a id="cox2007-oldnorser"></a>
+
+Cox, R.A.V. (2007) 'The Development of Old Norse -r(-) in (Scottish) Gaelic', in Cavill, P. and Broderick, G. (eds.) <i>Language Contact in the Place-Names of Britain and Ireland</i>. Nottingham: English Place-Name Society. [link unavailable]
+
+<a id="grand2013-gaidhligdhuthaichmhicaoidh"></a>
+
+Grannd, S. (2013) <i>Gàidhlig Dhùthaich MhicAoidh</i>. Mhealanais: Taigh na Gàidhlig. [link unavailable]
+
+<a id="ordnancesurvey-gaelicplacenames"></a>
+
+Ordnance Survey ([year unknown]) <i>Gaelic Place-names</i>. [place of publication unknown]: Ordnance Survey. [link unavailable]
+
+<a id="taylor2005-gaelicorigins"></a>
+
+Taylor, S. (2005) <i>Guide to Gaelic Origins of Place Names in Britain</i>. <a href="https://getoutside.ordnancesurvey.co.uk/guides/the-gaelic-origins-of-place-names-in-britain/" target="_blank" rel="noopener noreferrer">link</a>
+
+<a id="goc2009"></a>
+
+Gaelic Orthographic Conventions (2009). <a href="http://www.sqa.org.uk/" target="_blank" rel="noopener noreferrer">link</a>
+
+
+
