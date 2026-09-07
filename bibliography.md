@@ -1,7 +1,5 @@
 # Bibliography
 
-\# Bibliography
-
 
 
 \## Abbreviations
@@ -30,9 +28,7 @@
 
 
 
-\## References 
-
-
+\## References
 
 <a id="alexander1952-aberdeenshire"></a>
 
