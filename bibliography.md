@@ -407,5 +407,66 @@ Taylor, S. (2005) <i>Guide to Gaelic Origins of Place Names in Britain</i>. <a h
 
 Gaelic Orthographic Conventions (2009). <a href="http://www.sqa.org.uk/" target="_blank" rel="noopener noreferrer">link</a>
 
+<a id="diack1954-ms2276"></a>
+
+Diack, F.C. (1954) <i>MS2276: Unpublished Manuscript of Field Work</i>. Compiled by W.M. Alexander. Aberdeen Special Collections. [link unavailable]
+
+<a id="dieckhoff1932-pronouncingdictionary"></a>
+
+Dieckhoff, H.C. (1932) <i>A Pronouncing Dictionary of Scottish Gaelic: Based on the Glengarry Dialect</i>. [place of publication unknown]: W. & A.K. Johnston, Ltd. [link unavailable]
+
+<a id="robertson1927-robertsoncollection"></a>
+
+Robertson, C.M. (c.1895–1927) <i>Robertson Collection</i>. National Library of Scotland. [link unavailable]
+
+<a id="wjwatson1948-carmichaelwatson"></a>
+
+Watson, W.J. (1900–1948) <i>Topographic Material in the Carmichael Watson Collection</i>. University of Edinburgh Library. [link unavailable]
+
+<a id="alexander1952-aberdeenshire"></a>
+
+Alexander, W.M. (1952) <i>The Place-Names of Aberdeenshire</i>. Aberdeen: [publisher unknown]. [link unavailable]
+
+<a id="barrow1998-usesofplacenames"></a>
+
+Barrow, G.W.S. (1998) 'The Uses of Place-names and Scottish History: Pointers and Pitfalls', in Taylor, S. (ed.) <i>The Uses of Place-Names</i>, pp. 54–74. St Andrews: Scottish Studies Institute. [link unavailable]
+
+<a id="beveridge1923-abersinvers"></a>
+
+Beveridge, E. (1923) <i>The ‘Abers’ and ‘Invers’ of Scotland</i>. Edinburgh: William Brown. [link unavailable]
+
+<a id="black1998-surnames"></a>
+
+Black, G.F. (1998) <i>The Surnames of Scotland: Their Origin, Meaning and History</i>. [place of publication unknown]: Birlinn Ltd. [link unavailable]
+
+<a id="borgstrom1940-linguisticsurvey"></a>
+
+Borgstrøm, C.H. (1940) <i>A Linguistic Survey of the Gaelic Dialects of Scotland</i>. [place of publication unknown]: [publisher unknown]. [link unavailable]
+
+<a id="cox2002-carloway"></a>
+
+Cox, R.A.V. (2002) <i>The Gaelic Place-Names of Carloway</i>. Isle of Lewis: [publisher unknown]. [link unavailable]
+
+<a id="cox2022-ainmeantuineachaidh"></a>
+
+Cox, R.A.V. (2022) <i>Ainmean Tuineachaidh Leòdhais I & II</i>. Perthshire: Clann Tuirc. [link unavailable]
+
+<a id="dwelly1912-dictionary"></a>
+
+Dwelly, E. (1912) <i>The Illustrated Gaelic-English Dictionary</i>. [place of publication unknown]: Gairm Publications. [link unavailable]
+
+<a id="king2019-robertson"></a>
+
+King, J. (2019) <i>Scottish Gaelic Place-names: The Collected Works of Charles M. Robertson</i>. [place of publication unknown]: Clò Ainmean-Àite na h-Alba. <a href="https://www.amazon.co.uk/Scottish-Gaelic-Place-names-Collected-Robertson/dp/1721806873" target="_blank" rel="noopener noreferrer">link</a>
+
+<a id="stahl1999-barra"></a>
+
+Stahl, A.B. (1999) <i>Place-Names of Barra in the Outer Hebrides</i>. Unpublished PhD thesis. University of Edinburgh. [link unavailable]
+
+<a id="taylor-markus2012-pnf"></a>
+
+Taylor, S. and Márkus, G. (2006–2012) <i>The Place-Names of Fife</i>. Vols. 1–5. Donington: Shaun Tyas. [link unavailable]
+
+
 
 
