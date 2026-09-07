@@ -41,7 +41,7 @@ Black, G.F. (1998) <i>The Surnames of Scotland: Their Origin, Meaning and Histor
 <a id="clancy2011-gaelicmedievalscotland"></a>
 
 
-Clancy, T.O. (2011) 'Gaelic in Medieval Scotland: Advent and Expansion', <i>Proceedings of the British Academy</i>, 167, pp. 349–392. [Sir John Rhŷs Memorial Lecture, March 2009]. <a href="[http://www.sqa.org.uk/](https://eprints.gla.ac.uk/55089/)" target="\_blank" rel="noopener noreferrer">link</a>
+Clancy, T.O. (2011) 'Gaelic in Medieval Scotland: Advent and Expansion', <i>Proceedings of the British Academy</i>, 167, pp. 349–392. [Sir John Rhŷs Memorial Lecture, March 2009]. <a href="https://eprints.gla.ac.uk/55089/" target="\_blank" rel="noopener noreferrer">link</a>
 
 
 <a id="cox1991-brighnamfacal"></a>
@@ -58,7 +58,7 @@ Cox, R.A.V. (1997) 'Modern Scottish Gaelic Reflexes of Two Pictish Words: \*pett
 
 <a id="cox2002-carloway"></a>
 
-Cox, R.A.V. (2002) <i>The Gaelic Place-Names of Carloway</i>. Isle of Lewis: \[publisher unknown]. 
+Cox, R.A.V. (2002) <i>The Gaelic Place-Names of Carloway</i>. Dublin: School of Celtic Studies. 
 
 
 
@@ -525,3 +525,8 @@ Wilkinson, J. (2002) 'Deep Thoughts on the Devon and a Fresh Look at the Nith', 
 <a id="withers1984-gaelicinscotland"></a>
 
 Withers, C.W.J. (1984) <i>Gaelic in Scotland 1698-1981</i>. Edinburgh: John Donald.
+
+
+<a id="king-cotter2011-islayjura"></a>
+
+King, J. and Cotter, M. (2011) <i>Gaelic in the Landscape: Place-names in Islay and Jura / A' Ghàidhlig air Aghaidh na Tìre: Ainmean-àite ann an Ìle agus Diùra</i>. Perth: cottish Natural Heritage (Dualchas Nàdair na h-Alba). <a href="https://ainmean-aite.scot/wp-content/uploads/2016/12/islay-jura-placenames-book.pdf" target="_blank" rel="noopener noreferrer">link</a>
