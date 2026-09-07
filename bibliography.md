@@ -16,83 +16,79 @@
 
 <a id="alexander1952-aberdeenshire"></a>
 
-Alexander, W.M. (1952) <i>The Place-Names of Aberdeenshire</i>. Aberdeen: \[publisher unknown]. 
-
+Alexander, W.M. (1952) <i>The Place-Names of Aberdeenshire</i>. Aberdeen: Third Spalding Club. 
+<!-- comes into public domain 1st Jan 2030 -->
 
 
 <a id="barrow1998-usesofplacenames"></a>
 
-Barrow, G.W.S. (1998) 'The Uses of Place-names and Scottish History: Pointers and Pitfalls', in Taylor, S. (ed.) <i>The Uses of Place-Names</i>, pp. 54–74. St Andrews: Scottish Studies Institute. \[link unavailable]
+Barrow, G.W.S. (1998) 'The Uses of Place-names and Scottish History: Pointers and Pitfalls', in Taylor, S. (ed.) <i>The Uses of Place-Names</i>, pp. 54–74. St Andrews: Scottish Studies Institute. 
 
 
 
 <a id="beveridge1923-abersinvers"></a>
 
-Beveridge, E. (1923) <i>The ‘Abers’ and ‘Invers’ of Scotland</i>. Edinburgh: William Brown. \[link unavailable]
+Beveridge, E. (1923) <i>The ‘Abers’ and ‘Invers’ of Scotland</i>. Edinburgh: William Brown. \link unavailable]
 
 
 
 <a id="black1998-surnames"></a>
 
-Black, G.F. (1998) <i>The Surnames of Scotland: Their Origin, Meaning and History</i>. \[place of publication unknown]: Birlinn Ltd. \[link unavailable]
+Black, G.F. (1998) <i>The Surnames of Scotland: Their Origin, Meaning and History</i>. Edinburgh: Birlinn Ltd. 
 
 
-
-<a id="borgstrom1940-linguisticsurvey"></a>
-
-Borgstrøm, C.H. (1940) <i>A Linguistic Survey of the Gaelic Dialects of Scotland</i>. \[place of publication unknown]: \[publisher unknown]. \[link unavailable]
 
 <a id="clancy2011-gaelicmedievalscotland"></a>
 
 
-Clancy, T.O. (2011) 'Gaelic in Medieval Scotland: Advent and Expansion', <i>Proceedings of the British Academy</i>, 167, pp. 349–392. [Sir John Rhŷs Memorial Lecture, March 2009]. [link unavailable]
+Clancy, T.O. (2011) 'Gaelic in Medieval Scotland: Advent and Expansion', <i>Proceedings of the British Academy</i>, 167, pp. 349–392. [Sir John Rhŷs Memorial Lecture, March 2009]. <a href="[http://www.sqa.org.uk/](https://eprints.gla.ac.uk/55089/)" target="\_blank" rel="noopener noreferrer">link</a>
 
 
 <a id="cox1991-brighnamfacal"></a>
 
-Cox, R.A.V. (1991) <i>Brìgh nam Facal</i>. Glasgow: Gairm Publications. \[link unavailable]
+Cox, R.A.V. (1991) <i>Brìgh nam Facal</i>. Glasgow: Gairm Publications. 
 
 
 
 <a id="cox1997-pettlannerc"></a>
 
-Cox, R.A.V. (1997) 'Modern Scottish Gaelic Reflexes of Two Pictish Words: \*pett and \*lannerc', <i>Nomina</i>, 20, pp. 47–58. \[link unavailable]
+Cox, R.A.V. (1997) 'Modern Scottish Gaelic Reflexes of Two Pictish Words: \*pett and \*lannerc', <i>Nomina</i>, 20, pp. 47–58. 
 
 
 
 <a id="cox2002-carloway"></a>
 
-Cox, R.A.V. (2002) <i>The Gaelic Place-Names of Carloway</i>. Isle of Lewis: \[publisher unknown]. \[link unavailable]
+Cox, R.A.V. (2002) <i>The Gaelic Place-Names of Carloway</i>. Isle of Lewis: \[publisher unknown]. 
 
 
 
 <a id="cox2007-oldnorser"></a>
 
-Cox, R.A.V. (2007) 'The Development of Old Norse -r(-) in (Scottish) Gaelic', in Cavill, P. and Broderick, G. (eds.) <i>Language Contact in the Place-Names of Britain and Ireland</i>. Nottingham: English Place-Name Society. \[link unavailable]
+Cox, R.A.V. (2007) 'The Development of Old Norse -r(-) in (Scottish) Gaelic', in Cavill, P. and Broderick, G. (eds.) <i>Language Contact in the Place-Names of Britain and Ireland</i>. Nottingham: English Place-Name Society. 
 
 
 
 <a id="cox2022-ainmeantuineachaidh"></a>
 
-Cox, R.A.V. (2022) <i>Ainmean Tuineachaidh Leòdhais I \& II</i>. Perthshire: Clann Tuirc. \[link unavailable]
+Cox, R.A.V. (2022) <i>Ainmean Tuineachaidh Leòdhais I \& II</i>. Perthshire: Clann Tuirc. 
 
 
 
 <a id="diack1954-ms2276"></a>
 
-Diack, F.C. (1954) <i>MS2276: Unpublished Manuscript of Field Work</i>. Compiled by W.M. Alexander. Aberdeen Special Collections. \[link unavailable]
+Diack, F.C. (1954) <i>MS2276: Unpublished Manuscript of Field Work</i>. Compiled by W.M. Alexander. Aberdeen Special Collections. 
 
 
 
 <a id="dieckhoff1932-pronouncingdictionary"></a>
 
-Dieckhoff, H.C. (1932) <i>A Pronouncing Dictionary of Scottish Gaelic: Based on the Glengarry Dialect</i>. \[place of publication unknown]: W. \& A.K. Johnston, Ltd. \[link unavailable]
+Dieckhoff, H.C. (1932) <i>A Pronouncing Dictionary of Scottish Gaelic: Based on the Glengarry Dialect</i>. \[place of publication unknown]: W. \& A.K. Johnston, Ltd. 
 
 
 
 <a id="dwelly1912-dictionary"></a>
 
-Dwelly, E. (1912) <i>The Illustrated Gaelic-English Dictionary</i>. \[place of publication unknown]: Gairm Publications. \[link unavailable]
+Dwelly, E. (1912) <i>The Illustrated Gaelic-English Dictionary</i>. \[place of publication unknown]: Gairm Publications. 
 
 
 
@@ -104,7 +100,7 @@ Gaelic Orthographic Conventions (2009). <a href="http://www.sqa.org.uk/" target=
 
 <a id="grand2013-gaidhligdhuthaichmhicaoidh"></a>
 
-Grannd, S. (2013) <i>Gàidhlig Dhùthaich MhicAoidh</i>. Mhealanais: Taigh na Gàidhlig. \[link unavailable]
+Grannd, S. (2013) <i>Gàidhlig Dhùthaich MhicAoidh</i>. Mhealanais: Taigh na Gàidhlig. 
 
 
 
@@ -336,7 +332,7 @@ Oftedal, M. (1954) 'The Village Names of Lewis in the Outer Hebrides', <i>Norsk 
 
 <a id="ordnancesurvey-gaelicplacenames"></a>
 
-Ordnance Survey (\[year unknown]) <i>Gaelic Place-names</i>. \[place of publication unknown]: Ordnance Survey. \[link unavailable]
+Ordnance Survey (\[year unknown]) <i>Gaelic Place-names</i>. \[place of publication unknown]: Ordnance Survey. 
 
 
 
@@ -354,7 +350,7 @@ Rixson, D. (2002) <i>Arisaig and Morar: A History</i>. \[place of publication un
 
 <a id="robertson1927-robertsoncollection"></a>
 
-Robertson, C.M. (c.1895–1927) <i>Robertson Collection</i>. National Library of Scotland. \[link unavailable]
+Robertson, C.M. (c.1895–1927) <i>Robertson Collection</i>. National Library of Scotland. 
 
 
 
@@ -384,7 +380,7 @@ Sinton, T. (1906) <i>The Poetry of Badenoch</i>. \[place of publication unknown]
 
 <a id="stahl1999-barra"></a>
 
-Stahl, A.B. (1999) <i>Place-Names of Barra in the Outer Hebrides</i>. Unpublished PhD thesis. University of Edinburgh. \[link unavailable]
+Stahl, A.B. (1999) <i>Place-Names of Barra in the Outer Hebrides</i>. Unpublished PhD thesis. University of Edinburgh. 
 
 
 
@@ -444,7 +440,7 @@ Taylor, S. and Márkus, G. (2006) <i>The Place-Names of Fife</i>. Vols. 1–3. D
 
 <a id="taylor-markus2012-pnf"></a>
 
-Taylor, S. and Márkus, G. (2006–2012) <i>The Place-Names of Fife</i>. Vols. 1–5. Donington: Shaun Tyas. \[link unavailable]
+Taylor, S. and Márkus, G. (2006–2012) <i>The Place-Names of Fife</i>. Vols. 1–5. Donington: Shaun Tyas. 
 
 
 
@@ -462,7 +458,7 @@ Toner, G. (1996) 'The Backward Nook: <i>Cúil</i> and <i>Cúl</i> in Irish Place
 
 <a id="wjwatson1948-carmichaelwatson"></a>
 
-Watson, W.J. (1900–1948) <i>Topographic Material in the Carmichael Watson Collection</i>. University of Edinburgh Library. \[link unavailable]
+Watson, W.J. (1900–1948) <i>Topographic Material in the Carmichael Watson Collection</i>. University of Edinburgh Library. 
 
 
 
