@@ -129,10 +129,128 @@ MacMillan, S. (1971) *Bygone Lochaber: Historical and Traditional*. [Place of pu
 <a id="maolalaigh1998-historicallinguist"></a>
 
 Maolalaigh, Ó. (1998) 'Place-Names as a Resource for the Historical Linguist', in *The Uses of Place-Names*, pp. 12–53. 
+[Missing editor(s)] [Missing place of publication] [Missing publisher]
 
-[Missing editor(s)]
-[Missing place of publication]
-[Missing publisher]
-``
+<a id="matheson1905-elginshire"></a>
 
+Matheson, D. (1905) <i>Place Names of Elginshire</i>. Stirling: [publisher unknown].
 
+<a id="mclean1982-cowal"></a>
+
+McLean, A. (1982) <i>The Place Names of Cowal: Their Meaning and History</i>. [place of publication unknown]: Dunoon Observer.
+
+<a id="morgan1999-rum"></a>
+
+Morgan, P. (1999) <i>Rum: Island Place-Names/Rùm: Ainmean Àite an Eilein</i>. [place of publication unknown]: SNH.
+
+<a id="mowat1931-canisbay"></a>
+
+Mowat, J. (1931) <i>The Place-Names of Canisbay, Caithness</i>. [place of publication unknown]: Viking Society for Northern Research.
+
+<a id="munro1986-lordsoftheisles"></a>
+
+Munro, R.W. (1986) <i>Acts of the Lords of the Isles, 1336-1493</i>. [place of publication unknown]: Printed for the Scottish History Society by Blackwood, Pillans & Wilson.
+
+<a id="nicolaisen1976-scottishplacenames"></a>
+
+Nicolaisen, W.F.H. (1976) <i>Scottish Place-Names: Their Study and Significance</i>. [place of publication unknown]: BT Batsford Limited.
+
+<a id="omaille1987-ar"></a>
+
+Ó Máille, T.S. (1987) 'Place-name Elements -ar', <i>Ainm</i>, 2, pp. 27–36.
+
+<a id="omaille1990-vowelsuffixes"></a>
+
+Ó Máille, T.S. (1989–1990) 'Irish Place-Names in -as, -es, -is, -os, -us', <i>Ainm</i>, 4, pp. 124–143.
+
+<a id="omurchu1989-eastperthshire"></a>
+
+Ó Murchú, M. (1989) <i>East Perthshire Gaelic</i>. Dublin: [publisher unknown].
+
+<a id="oftedal1954-lewis"></a>
+
+Oftedal, M. (1954) 'The Village Names of Lewis in the Outer Hebrides', <i>Norsk Tidsskrift for Sprogvidenskap</i>, 17, pp. 363–409.
+
+<a id="rivet-smith1979-romanbritain"></a>
+
+Rivet, A.L.F. and Smith, C. (1979) <i>The Place-Names of Roman Britain</i>. London: [publisher unknown].
+
+<a id="rixson2002-arisaigmorar"></a>
+
+Rixson, D. (2002) <i>Arisaig and Morar: A History</i>. [place of publication unknown]: Tuckwell Press Ltd.
+
+<a id="sinclair1799-statisticalaccount"></a>
+
+Sinclair, J. (ed.) (1791–1799) <i>The Statistical Account of Scotland</i>. Edinburgh: [publisher unknown].
+
+<a id="sinclair1845-newstatisticalaccount"></a>
+
+Sinclair, J. (ed.) (1845) <i>The New Statistical Account of Scotland</i>. [place of publication unknown]: [publisher unknown].
+
+<a id="sinton1907-dores"></a>
+
+Sinton, T. (1904–1907) 'Places, People, and Poetry of Dores in Other Days', <i>Transactions of the Gaelic Society of Inverness</i>, 26, pp. 318–341.
+
+<a id="sinton1906-badenoch"></a>
+
+Sinton, T. (1906) <i>The Poetry of Badenoch</i>. [place of publication unknown]: Northern Counties Pub. Co.
+
+<a id="stobie1783-southeastperthshire"></a>
+
+Stobie, J. (1783) <i>South East Part of Perthshire</i>. Map. [place of publication unknown]: [publisher unknown].
+
+<a id="stone1989-pontmaps"></a>
+
+Stone, J.C. (1989) <i>The Pont Manuscript Maps of Scotland: Sixteenth Century Origins of a Blaeu Atlas</i>. Tring: [publisher unknown].
+
+<a id="stuart1908-exchequerrolls"></a>
+
+Stuart, J. (ed.) (1878–1908) <i>The Exchequer Rolls of Scotland</i>. Edinburgh: [publisher unknown].
+
+<a id="taylor1997-genericelementvariation"></a>
+
+Taylor, S. (1997) 'Generic Element Variation, with Special Reference to Eastern Scotland', <i>Nomina</i>, 20, pp. 5–22.
+
+<a id="taylor1998-usesofplacenames"></a>
+
+Taylor, S. (ed.) (1998) <i>The Uses of Place-Names</i>. St Andrews: [publisher unknown].
+
+<a id="taylor2000-fifebook"></a>
+
+Taylor, S. (2000) 'Place-Names of Fife', in <i>The Fife Book</i>. Edinburgh: [publisher unknown].
+
+<a id="taylor2003-placeandarchaeology"></a>
+
+Taylor, S. (2003) 'Place-Names and Archaeology', <i>History Scotland</i>, 3(6), pp. 50–53.
+
+<a id="taylor2008-bookofdeer"></a>
+
+Taylor, S. (2008) 'Place-Names in the Gaelic Notes in the Book of Deer', in <i>Studies in the Book of Deer</i>. [Publication details forthcoming].
+
+<a id="taylor-markus2006-pnf"></a>
+
+Taylor, S. and Márkus, G. (2006) <i>The Place-Names of Fife</i>. Vols. 1–3. Donington: Shaun Tyas.
+
+<a id="toner1996-cuilcul"></a>
+
+Toner, G. (1996) 'The Backward Nook: <i>Cúil</i> and <i>Cúl</i> in Irish Place-Names', <i>Ainm</i>, 7, pp. 113–117.
+
+<a id="waugh1985-caithness"></a>
+
+Waugh, D.J. (1985) <i>The Place-Names of Six Parishes in Caithness, Scotland</i>. [place of publication unknown]: University of Edinburgh.
+
+<a id="wentworth1999-beinneighe"></a>
+
+Wentworth, R. (1999) <i>Gaelic Place-Names of Beinn Eighe National Nature Reserve</i>. Perth: Scottish Natural Heritage.
+
+<a id="wentworth2003-westerross"></a>
+
+Wentworth, R. (2003) <i>Gaelic Words and Phrases from Wester Ross</i>. [place of publication unknown]: CLÀR.
+
+<a id="wilkinson2002-devonnith"></a>
+
+Wilkinson, J. (2002) 'Deep Thoughts on the Devon and a Fresh Look at the Nith', <i>Nomina</i>, 25, pp. 139–145.
+
+<a id="withers1984-gaelicinscotland"></a>
+
+Withers, C.W.J. (1984) <i>Gaelic in Scotland 1698-1981</i>. Edinburgh: John Donald.
