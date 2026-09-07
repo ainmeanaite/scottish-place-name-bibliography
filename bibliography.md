@@ -82,13 +82,13 @@ Diack, F.C. (1954) <i>MS2276: Unpublished Manuscript of Field Work</i>. Compiled
 
 <a id="dieckhoff1932-pronouncingdictionary"></a>
 
-Dieckhoff, H.C. (1932) <i>A Pronouncing Dictionary of Scottish Gaelic: Based on the Glengarry Dialect</i>. \[place of publication unknown]: W. \& A.K. Johnston, Ltd. 
+Dieckhoff, H.C. (1932) <i>A Pronouncing Dictionary of Scottish Gaelic: Based on the Glengarry Dialect</i>. Gairm Publications 1992 reprint
 
 
 
 <a id="dwelly1912-dictionary"></a>
 
-Dwelly, E. (1912) <i>The Illustrated Gaelic-English Dictionary</i>. \[place of publication unknown]: Gairm Publications. 
+Dwelly, E. (1912) <i>The Illustrated Gaelic-English Dictionary</i>. Birlinn: Edinburgh (2001 reprint).  <a href="https://archive.org/details/illustratedgaeli03dweluoft/page/1002/mode/2up" target="\_blank" rel="noopener noreferrer">link</a>
 
 
 
